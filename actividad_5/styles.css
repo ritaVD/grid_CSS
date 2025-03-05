@@ -3,7 +3,7 @@
     font-size:40px ;
     display: grid;
     width: 100%;
-    grid-template-columns: 1fr 1fr 1fr; /* Todas las columnas con ancho 1fr */
+    grid-template-columns: 1fr 1fr 1fr; 
     grid-template-rows: 1fr 1fr;
     height: 200px; 
     column-gap: 20px;
