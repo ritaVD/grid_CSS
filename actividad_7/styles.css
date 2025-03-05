@@ -7,7 +7,7 @@
     grid-template-rows: 1fr 1fr;
     height: 200px; 
     grid-gap: 10px;
-    
+    grid-gap: 20px;
 }
 
 
@@ -31,5 +31,5 @@
 }
 .d5{
     background-color: rgb(125, 207, 125);
-    grid-column: 2/4;
+    
 }
